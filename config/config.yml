@@ -1,0 +1,8 @@
+
+####################
+# RabbitMQ CONFIG
+####################
+MINIO_ENDPOINT: 127.0.0.1
+PORT: 5672
+ACCESS_KEY: user
+SECRET_KEY: password
